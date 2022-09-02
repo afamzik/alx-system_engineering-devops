@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ls -lh | grep hello
+ls -l ./hello
