@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo ls -lha  hello
+chmod ls -lh | grep hello
