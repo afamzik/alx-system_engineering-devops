@@ -1,2 +1,2 @@
 #!/bin/bash
---mime-type school.SCHOOL
+file --mime-type school.SCHOOL
