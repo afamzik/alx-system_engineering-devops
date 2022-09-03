@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 111 -d  */
+ls -ld */ | chmod a+x * 
