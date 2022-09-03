@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | tail -2 | head -1
+ls -ld hello | sed -e 's/ .*//'
