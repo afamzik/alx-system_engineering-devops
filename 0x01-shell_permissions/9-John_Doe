@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l ./hello
+ls -l | tail -2 | head -1
