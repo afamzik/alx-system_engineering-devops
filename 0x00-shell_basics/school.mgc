@@ -1,2 +1,2 @@
-#!/bin/bash
-file --mime-type school.SCHOOL
+string SCHOOL School data
+!:mime School
