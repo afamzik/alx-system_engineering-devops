@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
-# Script kills another script running in another terminal (need -f to find pid)
+# Script kills another script running in another terminal but will fail (need -f to find pid)
+# it fails because targeted script is designed to trap and ignore the kill/stop signal
+# this is interesting
 
 pkill -f "7-highlander"

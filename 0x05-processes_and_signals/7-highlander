@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Script receives kill signal from another script running in another terminal
-# Kill signal is caught and ignored; printing message instead
+# Script receives kill signal from another script running in another terminal simultaneosly
+# The Kill signal is caught and shockingly ignored but a message is instead printed
 
 msg()
 {
