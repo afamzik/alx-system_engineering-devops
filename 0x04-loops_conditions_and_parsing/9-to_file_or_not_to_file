@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Script gives info on file (exist? empty? file and not directory?)
+# a Bash script that gives you information about the school file.
 
 file="holbertonschool"
 

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-# Script lists content in current directory without initial #- in filenames
+#  a Bash script that displays:
+# The content of the current directory
+# In a list format
+# Where only the part of the name after the first dash is displayed
 
 files="$(ls)"
 for f in $files;
